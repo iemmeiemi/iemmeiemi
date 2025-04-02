@@ -14,7 +14,7 @@
 ---
 
 ### 📬 Contact Me  
-📫 **Email:** duoinuicholantu6x9@gmail.com  
+📫 **Email:** maicareerishere@gmail.com  
 
 ### 🌍 Connect with me  
 <p align="center">
