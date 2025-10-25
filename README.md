@@ -16,19 +16,6 @@
 ### 📬 Contact Me  
 📫 **Email:** maicareerishere@gmail.com  
 
-### 🌍 Connect with me  
-<p align="center">
-  <a href="https://kaggle.com/iammaiami" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/iemmeiemi" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/iemmeiemi" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Languages and Tools  
